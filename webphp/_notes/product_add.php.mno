@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsVendor" value="name:v_seq;datatype:int,name:name;datatype:string,name:con;datatype:string" />
+</info>
