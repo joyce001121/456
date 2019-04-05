@@ -1,5 +1,7 @@
 <?php require_once('Connections/link.php'); ?>
 <?php
+// joyce add comment 
+
 if (!function_exists("GetSQLValueString")) {
 function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDefinedValue = "") 
 {
